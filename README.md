@@ -1,3 +1,1 @@
-# Economic-Analysis
-
 ![](Dashboard.png)
